@@ -25,3 +25,18 @@ This project is a beginner-friendly implementation of a **text tokenizer** using
 ## 🔍 Example Run
 
 **Hello! My name is Hiba Siddiqui. You're viewing my repository of a basic tokenizer. I've recently learned some features and was doing a course on LLM basics from there. This idea came to my mind to build my project on tokenizer and to know how it works.** 
+
+---
+
+## 🎯 Learning Goals
+- Understand NLP tokenization
+- Learn how LLMs assign IDs to tokens
+- Practice GitHub workflow
+- Share my first NLP project with others
+
+## 🛠 Installation
+```bash
+git clone https://github.com/hibasiddiqui117/basic-tokenizer-nltk-llm.git
+cd basic-tokenizer-nltk-llm
+pip install nltk
+python tokenizer.py
