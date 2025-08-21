@@ -1,8 +1,4 @@
-# basic-tokenizer-nltk-llm
-A beginner-friendly project showing sentence/word tokenization with NLTK and token ID mapping with Hugging Face.
-
-# 📝 Basic Tokenizer with NLTK & Hugging Face
-
+# 📝 basic-tokenizer-nltk-llm
 This project is a beginner-friendly implementation of a **text tokenizer** using:
 - **NLTK** → for simple word/sentence tokenization  
 - **Hugging Face Tokenizers** → to show how LLMs encode text into IDs and decode back  
@@ -28,4 +24,4 @@ This project is a beginner-friendly implementation of a **text tokenizer** using
 
 ## 🔍 Example Run
 
-**Hello! My name is Hiba Siddiqui. You're viewing my repository for a basic tokenizer. I've recently learned some features and was doing a course on LLM basics from there. This idea came to my mind to build my project on tokenizer and to know how it works. ** 
+**Hello! My name is Hiba Siddiqui. You're viewing my repository of a basic tokenizer. I've recently learned some features and was doing a course on LLM basics from there. This idea came to my mind to build my project on tokenizer and to know how it works. ** 
